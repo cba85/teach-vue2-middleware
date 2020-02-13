@@ -2,7 +2,9 @@
 
 ## Steps
 
-1. Basic middleware using `beforeEach()ù method
+1. Basic middleware using `beforeEach()` method
+2. Create a moddleware pipeline
+3. Middleware inside a page component
 
 ## Project setup
 
