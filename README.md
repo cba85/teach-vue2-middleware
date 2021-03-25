@@ -1,5 +1,7 @@
 # teach-vue-middleware
 
+> For demonstration purpose only
+
 ## Steps
 
 1. Basic middleware using `beforeEach()` method
